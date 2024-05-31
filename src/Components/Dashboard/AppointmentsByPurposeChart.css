@@ -1,0 +1,16 @@
+.dashboard-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    height: auto;
+  }
+  
+  .chart-wrapper {
+    width: 1050px; /* Adjusted width for the AppointmentsOverTimeChart */
+    height: 400px;
+    margin: 10px;
+  }
+  .pie-chart-title {
+    text-align: center;
+    margin-bottom: 20px;
+  }

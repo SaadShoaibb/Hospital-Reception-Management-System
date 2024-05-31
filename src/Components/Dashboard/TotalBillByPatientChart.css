@@ -1,0 +1,22 @@
+.widget-container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px;
+    width: fit-content;
+    cursor: move;
+  }
+  
+  .bar-chart-title, .pie-chart-title {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .widget-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  

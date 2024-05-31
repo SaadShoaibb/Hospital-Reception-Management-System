@@ -1,0 +1,1110 @@
+{
+  "Appointments": [
+    {
+      "id": "1",
+      "ID": "",
+      "Patient": "Ahmed Khan",
+      "PhoneNo": "03001234567",
+      "Email": "ahmed.khan@example.com",
+      "PurposeOfVisit": "Checkup",
+      "Doctor": "Dr. Saeed",
+      "Date": "2024-05-01",
+      "AppointmentTime": "10:00",
+      "Description": "Routine checkup"
+    },
+    {
+      "id": "2",
+      "ID": "",
+      "Patient": "Sara Ali",
+      "PhoneNo": "03007654321",
+      "Email": "sara.ali@example.com",
+      "PurposeOfVisit": "Consultation",
+      "Doctor": "Dr. Ali",
+      "Date": "2024-05-02",
+      "AppointmentTime": "11:00",
+      "Description": "General consultation"
+    },
+    {
+      "id": "3",
+      "ID": "",
+      "Patient": "Zain Qureshi",
+      "PhoneNo": "03009876543",
+      "Email": "zain.qureshi@example.com",
+      "PurposeOfVisit": "Dental Pain",
+      "Doctor": "Dr. Saeed",
+      "Date": "2024-05-03",
+      "AppointmentTime": "12:00",
+      "Description": "Severe toothache"
+    },
+    {
+      "id": "4",
+      "ID": "",
+      "Patient": "Mariam Baloch",
+      "PhoneNo": "03003456789",
+      "Email": "mariam.baloch@example.com",
+      "PurposeOfVisit": "Skin Rash",
+      "Doctor": "Dr. Ali",
+      "Date": "2024-05-04",
+      "AppointmentTime": "13:00",
+      "Description": "Rash on skin"
+    },
+    {
+      "id": "5",
+      "ID": "",
+      "Patient": "Ali Hassan",
+      "PhoneNo": "03005678901",
+      "Email": "ali.hassan@example.com",
+      "PurposeOfVisit": "Fever",
+      "Doctor": "Dr. Saeed",
+      "Date": "2024-05-05",
+      "AppointmentTime": "14:00",
+      "Description": "High fever"
+    },
+    {
+      "id": "6",
+      "ID": "",
+      "Patient": "Ayesha Tariq",
+      "PhoneNo": "03007890123",
+      "Email": "ayesha.tariq@example.com",
+      "PurposeOfVisit": "Eye Checkup",
+      "Doctor": "Dr. Ali",
+      "Date": "2024-05-06",
+      "AppointmentTime": "15:00",
+      "Description": "Blurry vision"
+    },
+    {
+      "id": "7",
+      "ID": "",
+      "Patient": "Bilal Ahmed",
+      "PhoneNo": "03001237890",
+      "Email": "bilal.ahmed@example.com",
+      "PurposeOfVisit": "Back Pain",
+      "Doctor": "Dr. Ali",
+      "Date": "2024-05-07",
+      "AppointmentTime": "16:00",
+      "Description": "Lower back pain"
+    },
+    {
+      "id": "8",
+      "ID": "",
+      "Patient": "Nida Raza",
+      "PhoneNo": "03004567890",
+      "Email": "nida.raza@example.com",
+      "PurposeOfVisit": "Headache",
+      "Doctor": "Dr. Amjad",
+      "Date": "2024-05-08",
+      "AppointmentTime": "17:00",
+      "Description": "Severe headache"
+    },
+    {
+      "id": "9",
+      "ID": "",
+      "Patient": "Usman Javed",
+      "PhoneNo": "03006789012",
+      "Email": "usman.javed@example.com",
+      "PurposeOfVisit": "Stomach Pain",
+      "Doctor": "Dr. Saeed",
+      "Date": "2024-05-09",
+      "AppointmentTime": "18:00",
+      "Description": "Abdominal pain"
+    },
+    {
+      "id": "4970",
+      "ID": "",
+      "Patient": "Fariha Qasim",
+      "PhoneNo": "03008901234",
+      "Email": "fariha.qasim@example.com",
+      "PurposeOfVisit": "Cold",
+      "Doctor": "Dr. Amjad",
+      "Date": "2024-05-10",
+      "AppointmentTime": "19:00",
+      "Description": "Runny nose and cough"
+    },
+    {
+      "id": "11",
+      "ID": "",
+      "Patient": "Kamran Shah",
+      "PhoneNo": "03001112222",
+      "Email": "kamran.shah@example.com",
+      "PurposeOfVisit": "Checkup",
+      "Doctor": "Dr. Saeed",
+      "Date": "2024-05-11",
+      "AppointmentTime": "10:00",
+      "Description": "Routine checkup"
+    },
+    {
+      "id": "12",
+      "ID": "",
+      "Patient": "Zara Khan",
+      "PhoneNo": "03003334444",
+      "Email": "zara.khan@example.com",
+      "PurposeOfVisit": "Consultation",
+      "Doctor": "Dr. Amjad",
+      "Date": "2024-05-11",
+      "AppointmentTime": "11:00",
+      "Description": "General consultation"
+    },
+    {
+      "id": "13",
+      "ID": "",
+      "Patient": "Fahad Ali",
+      "PhoneNo": "03005556666",
+      "Email": "fahad.ali@example.com",
+      "PurposeOfVisit": "Dental Pain",
+      "Doctor": "Dr. Ali",
+      "Date": "2024-05-11",
+      "AppointmentTime": "12:00",
+      "Description": "Severe toothache"
+    },
+    {
+      "id": "14",
+      "ID": "",
+      "Patient": "Razia Bibi",
+      "PhoneNo": "03007778888",
+      "Email": "razia.bibi@example.com",
+      "PurposeOfVisit": "Skin Rash",
+      "Doctor": "Dr. Amjad",
+      "Date": "2024-05-11",
+      "AppointmentTime": "13:00",
+      "Description": "Rash on skin"
+    },
+    {
+      "id": "15",
+      "ID": "",
+      "Patient": "Usman Malik",
+      "PhoneNo": "03009990000",
+      "Email": "usman.malik@example.com",
+      "PurposeOfVisit": "Fever",
+      "Doctor": "Dr. Saeed",
+      "Date": "2024-05-11",
+      "AppointmentTime": "14:00",
+      "Description": "High fever"
+    },
+    {
+      "id": "16",
+      "ID": "",
+      "Patient": "Sana Ahmed",
+      "PhoneNo": "03001113333",
+      "Email": "sana.ahmed@example.com",
+      "PurposeOfVisit": "Eye Checkup",
+      "Doctor": "Dr. Ali",
+      "Date": "2024-05-11",
+      "AppointmentTime": "15:00",
+      "Description": "Blurry vision"
+    },
+    {
+      "id": "17",
+      "ID": "",
+      "Patient": "Kashif Khan",
+      "PhoneNo": "03002224444",
+      "Email": "kashif.khan@example.com",
+      "PurposeOfVisit": "Back Pain",
+      "Doctor": "Dr. Ali",
+      "Date": "2024-05-17",
+      "AppointmentTime": "16:00",
+      "Description": "Lower back pain"
+    },
+    {
+      "id": "18",
+      "ID": "",
+      "Patient": "Hina Raza",
+      "PhoneNo": "03003335555",
+      "Email": "hina.raza@example.com",
+      "PurposeOfVisit": "Headache",
+      "Doctor": "Dr. Amjad",
+      "Date": "2024-05-18",
+      "AppointmentTime": "17:00",
+      "Description": "Severe headache"
+    },
+    {
+      "id": "19",
+      "ID": "",
+      "Patient": "Tariq Javed",
+      "PhoneNo": "03004446666",
+      "Email": "tariq.javed@example.com",
+      "PurposeOfVisit": "Stomach Pain",
+      "Doctor": "Dr. Ali",
+      "Date": "2024-05-19",
+      "AppointmentTime": "18:00",
+      "Description": "Abdominal pain"
+    },
+    {
+      "id": "20",
+      "ID": "",
+      "Patient": "Nida Riaz",
+      "PhoneNo": "03005557777",
+      "Email": "nida.riaz@example.com",
+      "PurposeOfVisit": "Cold",
+      "Doctor": "Dr. Amjad",
+      "Date": "2024-05-20",
+      "AppointmentTime": "19:00",
+      "Description": "Runny nose and cough"
+    },
+    {
+      "id": "21",
+      "Patient": "Irfan Khan",
+      "PhoneNo": "03009998888",
+      "Email": "irfan.khan@example.com",
+      "PurposeOfVisit": "Consultation",
+      "Doctor": "Dr. Khan",
+      "Date": "2024-05-10",
+      "AppointmentTime": "16:00",
+      "Description": "New patient consultation"
+    },
+    {
+      "id": "22",
+      "Patient": "Amina Siddiqui",
+      "PhoneNo": "03008887777",
+      "Email": "amina.siddiqui@example.com",
+      "PurposeOfVisit": "Skin Rash",
+      "Doctor": "Dr. Fatima",
+      "Date": "2024-05-15",
+      "AppointmentTime": "12:00",
+      "Description": "New patient with skin rash"
+    },
+    {
+      "id": "23",
+      "Patient": "Rehan Chaudhry",
+      "PhoneNo": "03005554444",
+      "Email": "rehan.chaudhry@example.com",
+      "PurposeOfVisit": "Back Pain",
+      "Doctor": "Dr. Khan",
+      "Date": "2024-05-17",
+      "AppointmentTime": "15:00",
+      "Description": "New patient with back pain"
+    },
+    {
+      "id": "24",
+      "Patient": "Sameena Malik",
+      "PhoneNo": "03004443333",
+      "Email": "sameena.malik@example.com",
+      "PurposeOfVisit": "Fever",
+      "Doctor": "Dr. Amjad",
+      "Date": "2024-05-21",
+      "AppointmentTime": "14:00",
+      "Description": "Fever and flu-like symptoms"
+    },
+    {
+      "id": "25",
+      "Patient": "Farhan Ahmed",
+      "PhoneNo": "03003332222",
+      "Email": "farhan.ahmed@example.com",
+      "PurposeOfVisit": "Dental Pain",
+      "Doctor": "Dr. Ali",
+      "Date": "2024-05-24",
+      "AppointmentTime": "11:00",
+      "Description": "Severe toothache"
+    },
+    {
+      "id": "26",
+      "Patient": "Shabana Khan",
+      "PhoneNo": "03002221111",
+      "Email": "shabana.khan@example.com",
+      "PurposeOfVisit": "Eye Checkup",
+      "Doctor": "Dr. Fatima",
+      "Date": "2024-05",
+      "AppointmentTime": "16:00",
+      "Description": "Earache with mild fever"
+    },
+    {
+      "id": "27",
+      "Patient": "Ali Hassan",
+      "PhoneNo": "03005678901",
+      "Email": "ali.hassan@example.com",
+      "PurposeOfVisit": "Earache",
+      "Doctor": "Dr. Saeed",
+      "Date": "2024-05-13",
+      "AppointmentTime": "16:00",
+      "Description": "Earache with mild fever"
+    },
+    {
+      "id": "28",
+      "Patient": "Rubina Khan",
+      "PhoneNo": "03006665555",
+      "Email": "rubina.khan@example.com",
+      "PurposeOfVisit": "Stomach Pain",
+      "Doctor": "Dr. Amjad",
+      "Date": "2024-05-14",
+      "AppointmentTime": "18:00",
+      "Description": "Sudden onset of stomach cramps"
+    },
+    {
+      "id": "29",
+      "Patient": "Imran Ahmed",
+      "PhoneNo": "03007774444",
+      "Email": "imran.ahmed@example.com",
+      "PurposeOfVisit": "Ankle Sprain",
+      "Doctor": "Dr. Khan",
+      "Date": "2024-05-18",
+      "AppointmentTime": "11:00",
+      "Description": "Sprained ankle from sports injury"
+    },
+    {
+      "id": "30",
+      "Patient": "Saadia Baloch",
+      "PhoneNo": "03008883333",
+      "Email": "sadia.baloch@example.com",
+      "PurposeOfVisit": "Skin Checkup",
+      "Doctor": "Dr. Fatima",
+      "Date": "2024-05-22",
+      "AppointmentTime": "10:00",
+      "Description": "Annual skin cancer screening"
+    },
+    {
+      "id": "31",
+      "Patient": "Nida Raza",
+      "PhoneNo": "03004567890",
+      "Email": "nida.raza@example.com",
+      "PurposeOfVisit": "Migraine",
+      "Doctor": "Dr. Amjad",
+      "Date": "2024-05-23",
+      "AppointmentTime": "12:00",
+      "Description": "Severe migraine headache"
+    },
+    {
+      "id": "32",
+      "Patient": "Aisha Ali",
+      "PhoneNo": "03009992222",
+      "Email": "aisha.ali@example.com",
+      "PurposeOfVisit": "Follow-up (Cold)",
+      "Doctor": "Dr. Saeed",
+      "Date": "2024-05-24",
+      "AppointmentTime": "15:00",
+      "Description": "Follow-up appointment for cold symptoms"
+    },
+    {
+      "id": "33",
+      "Patient": "Bilal Khan",
+      "PhoneNo": "03001230000",
+      "Email": "bilal.khan@example.com",
+      "PurposeOfVisit": "Muscle Strain",
+      "Doctor": "Dr. Khan",
+      "Date": "2024-05-28",
+      "AppointmentTime": "16:00",
+      "Description": "Muscle strain in shoulder from exercise"
+    },
+    {
+      "id": "34",
+      "Patient": "Usman Javed",
+      "PhoneNo": "03006789012",
+      "Email": "usman.javed@example.com",
+      "PurposeOfVisit": "Follow-up (Stomach Pain)",
+      "Doctor": "Dr. Saeed",
+      "Date": "2024-05-29",
+      "AppointmentTime": "16:00",
+      "Description": "Muscle strain in shoulder from exercise"
+    },
+    {
+      "id": "35",
+      "ID": "",
+      "Patient": "Aliya Khan",
+      "PhoneNo": "03123456789",
+      "Email": "aliya.khan@example.com",
+      "PurposeOfVisit": "Fever",
+      "Doctor": "Dr. Fatima",
+      "Date": "2024-05-23",
+      "AppointmentTime": "14:00",
+      "Description": "High fever for 2 days"
+    },
+    {
+      "id": "36",
+      "ID": "",
+      "Patient": "Hamza Ahmed",
+      "PhoneNo": "03215678901",
+      "Email": "hamza.ahmed@example.com",
+      "PurposeOfVisit": "Skin Rash",
+      "Doctor": "Dr. Ali",
+      "Date": "2024-05-24",
+      "AppointmentTime": "10:00",
+      "Description": "Itchy skin rash on arm"
+    },
+    {
+      "id": "37",
+      "Patient": "Sana Iqbal",
+      "PhoneNo": "03345678912",
+      "Email": "sana.iqbal@example.com",
+      "PurposeOfVisit": "Cough",
+      "Doctor": "Dr. Saeed",
+      "Date": "2024-05-25",
+      "AppointmentTime": "16:00",
+      "Description": "Dry cough for a week"
+    },
+    {
+      "id": "38",
+      "ID": "",
+      "Patient": "Ali Hassan",
+      "PhoneNo": "03456789013",
+      "Email": "ali.hassan@example.com",
+      "PurposeOfVisit": "Back Pain",
+      "Doctor": "Dr. Fatima",
+      "Date": "2024-05-26",
+      "AppointmentTime": "12:00",
+      "Description": "Lower back pain"
+    },
+    {
+      "id": "39",
+      "ID": "",
+      "Patient": "Rabia Khan",
+      "PhoneNo": "0356789014",
+      "Email": "rabia.khan@example.com",
+      "PurposeOfVisit": "Ear Infection",
+      "Doctor": "Dr. Amjad",
+      "Date": "2024-05-27",
+      "AppointmentTime": "15:00",
+      "Description": "Ear pain and discharge"
+    },
+    {
+      "id": "40",
+      "ID": "",
+      "Patient": "Faisal Iqbal",
+      "PhoneNo": "0367890125",
+      "Email": "faisal.iqbal@example.com",
+      "PurposeOfVisit": "Dental Checkup",
+      "Doctor": "Dr. Fatima",
+      "Date": "2024-05-28",
+      "AppointmentTime": "11:00",
+      "Description": "Regular dental checkup"
+    },
+    {
+      "id": "41",
+      "ID": "",
+      "Patient": "Hina Ali",
+      "PhoneNo": "0378901236",
+      "Email": "hina.ali@example.com",
+      "PurposeOfVisit": "Vaccination",
+      "Doctor": "Dr. Khan",
+      "Date": "2024-05-29",
+      "AppointmentTime": "13:00",
+      "Description": "Hepatitis B vaccination"
+    },
+    {
+      "id": "42",
+      "ID": "",
+      "Patient": "Omar Farooq",
+      "PhoneNo": "0389012347",
+      "Email": "omar.farooq@example.com",
+      "PurposeOfVisit": "Allergy",
+      "Doctor": "Dr. Saeed",
+      "Date": "2024-05-30",
+      "AppointmentTime": "17:00",
+      "Description": "Skin allergy"
+    },
+    {
+      "id": "43",
+      "ID": "",
+      "Patient": "Ayesha Khan",
+      "PhoneNo": "0390123458",
+      "Email": "ayesha.khan@example.com",
+      "PurposeOfVisit": "Eye Checkup",
+      "Doctor": "Dr. Amjad",
+      "Date": "2024-05-31",
+      "AppointmentTime": "14:00",
+      "Description": "Eye exam and glasses"
+    },
+    {
+      "id": "44",
+      "ID": "",
+      "Patient": "Talha Ahmed",
+      "PhoneNo": "03123456789",
+      "Email": "talha.ahmed@example.com",
+      "PurposeOfVisit": "Cold",
+      "Doctor": "Dr. Fatima",
+      "Date": "2024-06-01",
+      "AppointmentTime": "10:00",
+      "Description": "Eye exam and glasses"
+    },
+    {
+      "id": "45",
+      "ID": "",
+      "Patient": "Zainab Ahmed",
+      "PhoneNo": "03123456789",
+      "Email": "zainab.ahmed@example.com",
+      "PurposeOfVisit": "Fatigue",
+      "Doctor": "Dr. Amjad",
+      "Date": "2024-06-03",
+      "AppointmentTime": "14:00",
+      "Description": "Feeling tired and weak"
+    },
+    {
+      "id": "46",
+      "ID": "",
+      "Patient": "Ahmed Raza",
+      "PhoneNo": "03215678901",
+      "Email": "ahmed.raza@example.com",
+      "PurposeOfVisit": "Joint Pain",
+      "Doctor": "Dr. Fatima",
+      "Date": "2024-06-04",
+      "AppointmentTime": "10:00",
+      "Description": "Pain in knees and elbows"
+    },
+    {
+      "id": "47",
+      "ID": "",
+      "Patient": "Fatima Iqbal",
+      "PhoneNo": "03345678912",
+      "Email": "fatima.iqbal@example.com",
+      "PurposeOfVisit": "Diabetes Checkup",
+      "Doctor": "Dr. Saeed",
+      "Date": "2024-06-05",
+      "AppointmentTime": "16:00",
+      "Description": "Regular diabetes checkup"
+    },
+    {
+      "id": "48",
+      "ID": "",
+      "Patient": "Asad Ali",
+      "PhoneNo": "03456789013",
+      "Email": "asad.ali@example.com",
+      "PurposeOfVisit": "High Blood Pressure",
+      "Doctor": "Dr. Fatima",
+      "Date": "2024-06-06",
+      "AppointmentTime": "12:00",
+      "Description": "Regular blood pressure checkup"
+    },
+    {
+      "id": "49",
+      "ID": "",
+      "Patient": "Maham Khan",
+      "PhoneNo": "0356789014",
+      "Email": "maham.khan@example.com",
+      "PurposeOfVisit": "Asthma Checkup",
+      "Doctor": "Dr. Amjad",
+      "Date": "2024-06-07",
+      "AppointmentTime": "15:00",
+      "Description": "Regular asthma checkup"
+    },
+    {
+      "id": "50",
+      "ID": "",
+      "Patient": "Zara Farooq",
+      "PhoneNo": "0367890125",
+      "Email": "zara.farooq@example.com",
+      "PurposeOfVisit": "Dental Checkup",
+      "Doctor": "Dr. Fatima",
+      "Date": "2024-06-08",
+      "AppointmentTime": "11:00",
+      "Description": "Regular dental checkup"
+    },
+    {
+      "id": "51",
+      "ID": "",
+      "Patient": "Hassan Iqbal",
+      "PhoneNo": "0378901236",
+      "Email": "hassan.iqbal@example.com",
+      "PurposeOfVisit": "Vaccination",
+      "Doctor": "Dr. Khan",
+      "Date": "2024-06-09",
+      "AppointmentTime": "13:00",
+      "Description": "Flu vaccination"
+    },
+    {
+      "id": "52",
+      "ID": "",
+      "Patient": "Aisha Raza",
+      "PhoneNo": "0389012347",
+      "Email": "aisha.raza@example.com",
+      "PurposeOfVisit": "Allergy",
+      "Doctor": "Dr. Saeed",
+      "Date": "2024-06-10",
+      "AppointmentTime": "17:00",
+      "Description": "Skin allergy"
+    },
+    {
+      "id": "",
+      "Patient": "JB",
+      "PhoneNo": "03151103929",
+      "Email": "asd@gmail.com",
+      "PurposeOfVisit": "Physiotherapy",
+      "Doctor": "Dr.Farhan",
+      "Date": "2024-05-31",
+      "AppointmentTime": "14:45",
+      "Description": "ACL"
+    },
+    {
+      "id": "",
+      "Patient": "Rana",
+      "PhoneNo": "03151103929",
+      "Email": "iconicowns@gmail.com",
+      "PurposeOfVisit": "CT Scan",
+      "Doctor": "Dr.Farhan",
+      "Date": "2024-05-30",
+      "AppointmentTime": "14:01",
+      "Description": "Own Goal"
+    }
+  ],
+  "Patients": [
+    {
+      "id": "1",
+      "Patient": "Ahmed Khanzada",
+      "PhoneNo": "03001234567",
+      "Email": "ahmed.khan@example.com",
+      "Date": "2024-05-01"
+    },
+    {
+      "id": "3",
+      "Patient": "Zain Qureshi",
+      "PhoneNo": "03009876543",
+      "Email": "zain.qureshi@example.com",
+      "Date": "2024-05-03"
+    },
+    {
+      "id": "4",
+      "Patient": "Mariam Baloch",
+      "PhoneNo": "03003456789",
+      "Email": "mariam.baloch@example.com",
+      "Date": "2024-05-04"
+    },
+    {
+      "id": "5",
+      "Patient": "Ali Hassan",
+      "PhoneNo": "03005678901",
+      "Email": "binshoaibsaad@gmail.com",
+      "Date": "2024-05-05"
+    },
+    {
+      "id": "6",
+      "Patient": "Saad",
+      "PhoneNo": "03151103929",
+      "Email": "binshoaibsaad@gmail.com",
+      "Date": "2024-11-15"
+    },
+    {
+      "id": "7",
+      "Patient": "Bobby",
+      "PhoneNo": "03007890123",
+      "Email": "iconicowns@gmail.com",
+      "Date": "2024-05-30"
+    },
+    {
+      "id": "2998",
+      "Patient": "JB",
+      "PhoneNo": "03151103929",
+      "Email": "asd@gmail.com",
+      "Date": "2024-05-31"
+    },
+    {
+      "id": "5688",
+      "Patient": "Rana",
+      "PhoneNo": "03151103929",
+      "Email": "iconicowns@gmail.com",
+      "Date": "2024-05-30"
+    }
+  ],
+  "invoices": [
+    {
+      "id": "1",
+      "patient": "Ahmed Khan",
+      "createdAt": "2024-05-01",
+      "dueDate": "2024-05-04",
+      "amount": "PKR 5000"
+    },
+    {
+      "id": "2",
+      "patient": "Sara Ali",
+      "createdAt": "2024-05-02",
+      "dueDate": "2024-05-16",
+      "amount": "PKR 3000"
+    },
+    {
+      "id": "3",
+      "patient": "Zain Qureshi",
+      "createdAt": "2024-05-03",
+      "dueDate": "2024-05-20",
+      "amount": "PKR 7000"
+    },
+    {
+      "id": "4",
+      "patient": "Mariam Baloch",
+      "createdAt": "2024-05-04",
+      "dueDate": "2024-05-18",
+      "amount": "PKR 2000"
+    },
+    {
+      "id": "5",
+      "patient": "Ali Hassan",
+      "createdAt": "2024-05-05",
+      "dueDate": "2024-05-19",
+      "amount": "PKR 6000"
+    },
+    {
+      "id": "9",
+      "patient": "Usman Javed",
+      "createdAt": "2024-05-09",
+      "dueDate": "2024-05-23",
+      "amount": "PKR 5500"
+    },
+    {
+      "id": "10",
+      "patient": "Fariha Qasim",
+      "createdAt": "2024-05-10",
+      "dueDate": "2024-05-24",
+      "amount": "PKR 7500"
+    },
+    {
+      "id": "",
+      "patient": "Ayesha Tariq",
+      "createdAt": "2024-05-08",
+      "dueDate": "2024-05-24"
+    },
+    {
+      "id": "",
+      "patient": "Mariam Baloch",
+      "createdAt": "2024-05-07",
+      "dueDate": "2024-05-23"
+    },
+    {
+      "id": "",
+      "patient": "Zain Qureshi",
+      "createdAt": "2024-05-02",
+      "dueDate": "2024-05-10"
+    },
+    {
+      "id": "",
+      "patient": "Ahmed Khan",
+      "createdAt": "2024-05-02",
+      "dueDate": "2024-04-28"
+    },
+    {
+      "id": "",
+      "patient": "Ali Hassan",
+      "createdAt": "2024-05-24",
+      "dueDate": "2024-05-21"
+    },
+    {
+      "id": "",
+      "patient": "Ahmed Khanzada",
+      "createdAt": "2024-05-16",
+      "dueDate": "2024-05-15"
+    },
+    {
+      "id": "",
+      "patient": "1",
+      "createdAt": "2024-05-11",
+      "dueDate": "2024-05-14"
+    }
+  ],
+  "Doctor": [
+    {
+      "sno": "1",
+      "doctor": "Dr.Saeed",
+      "Slots": "10-1 Pm",
+      "phone": "03001234567",
+      "Specialization": "Dentist",
+      "Email": "saeed@gmail.com",
+      "id": "5f43"
+    },
+    {
+      "sno": "2",
+      "doctor": "Dr.Adeel",
+      "Slots": "9-12 Pm",
+      "phone": "03007654321",
+      "Specialization": "Gynaecologist",
+      "Email": "adeel2@gmail.com",
+      "id": "047e"
+    },
+    {
+      "sno": "3",
+      "doctor": "Dr.Farhan",
+      "Slots": "8-11 Pm",
+      "phone": "03009876543",
+      "Specialization": "Physician",
+      "Email": "Farhan1@gmail.com",
+      "id": "8dbc"
+    }
+  ],
+  "services": [
+    {
+      "No": 1,
+      "Service": "Vaccination",
+      "CreatedAt": "2024-05-06",
+      "Price": "700",
+      "Status": "Available",
+      "id": "5bb1"
+    },
+    {
+      "No": 2,
+      "Service": "Root Canal",
+      "CreatedAt": "2024-04-11",
+      "Price": "1200",
+      "Status": "Available",
+      "id": "a8bc"
+    },
+    {
+      "No": 3,
+      "Service": "General Checkup",
+      "CreatedAt": "2024-05-05",
+      "Price": "500",
+      "Status": "Available",
+      "id": "6620"
+    },
+    {
+      "No": 4,
+      "Service": "Blood Test",
+      "CreatedAt": "2024-04-20",
+      "Price": "300",
+      "Status": "Available",
+      "id": "ecef"
+    },
+    {
+      "No": 5,
+      "Service": "X-Ray",
+      "CreatedAt": "2024-04-25",
+      "Price": "800",
+      "Status": "Available",
+      "id": "1a15"
+    },
+    {
+      "No": 6,
+      "Service": "MRI",
+      "CreatedAt": "2024-04-30",
+      "Price": "2000",
+      "Status": "Available",
+      "id": "aac4"
+    },
+    {
+      "No": 7,
+      "Service": "CT Scan",
+      "CreatedAt": "2024-05-01",
+      "Price": "1500",
+      "Status": "Available",
+      "id": "05dc"
+    },
+    {
+      "No": 8,
+      "Service": "Ultrasound",
+      "CreatedAt": "2024-04-15",
+      "Price": "1000",
+      "Status": "Available",
+      "id": "96f7"
+    },
+    {
+      "No": 9,
+      "Service": "Physiotherapy",
+      "CreatedAt": "2024-05-02",
+      "Price": "600",
+      "Status": "Available",
+      "id": "1db7"
+    },
+    {
+      "No": 10,
+      "Service": "Dental Cleaning",
+      "CreatedAt": "2024-04-10",
+      "Price": "400",
+      "Status": "Available",
+      "id": "fa3a"
+    }
+  ],
+  "Bill": [
+    {
+      "id": "1",
+      "patient": "Ahmed Khan",
+      "services": [
+        {
+          "name": "Checkup",
+          "price": 1000,
+          "quantity": 1
+        },
+        {
+          "name": "Blood Test",
+          "price": 2000,
+          "quantity": 1
+        },
+        {
+          "name": "General Checkup",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "item": "General Checkup",
+          "quantity": 1,
+          "price": 500
+        },
+        {
+          "name": "Vaccination",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "name": "Root Canal",
+          "price": 1200,
+          "quantity": 1
+        },
+        {
+          "item": "Root Canal",
+          "quantity": 1,
+          "price": 1200
+        },
+        {
+          "name": "General Checkup",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "name": "Blood Test",
+          "price": 300,
+          "quantity": 3
+        },
+        {
+          "item": "Root Canal",
+          "quantity": 1,
+          "price": 1200
+        },
+        {
+          "item": "General Checkup",
+          "quantity": 1,
+          "price": 500
+        },
+        {
+          "item": "Blood Test",
+          "quantity": 3,
+          "price": 300
+        },
+        {
+          "name": "Root Canal",
+          "price": 1200,
+          "quantity": 1
+        },
+        {
+          "name": "X-Ray",
+          "price": 800,
+          "quantity": 1
+        },
+        {
+          "name": "Blood Test",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "item": "Blood Test",
+          "quantity": 1,
+          "price": 300
+        },
+        {
+          "name": "General Checkup",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "item": "General Checkup",
+          "quantity": 1,
+          "price": 500
+        },
+        {
+          "name": "Blood Test",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "item": "Blood Test",
+          "quantity": 1,
+          "price": 300
+        },
+        {
+          "name": "Root Canal",
+          "price": 1200,
+          "quantity": 1
+        },
+        {
+          "name": "General Checkup",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "name": "Blood Test",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "name": "General Checkup",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "name": "General Checkup",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "name": "General Checkup",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "name": "Root Canal",
+          "price": 1200,
+          "quantity": 1
+        },
+        {
+          "name": "General Checkup",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "name": "Blood Test",
+          "price": 300,
+          "quantity": 1
+        }
+      ],
+      "total": 20800
+    },
+    {
+      "id": "2",
+      "patient": "Sara Ali",
+      "services": [
+        {
+          "name": "Consultation",
+          "price": 1500,
+          "quantity": 1
+        },
+        {
+          "name": "X-Ray",
+          "price": 3000,
+          "quantity": 1
+        }
+      ],
+      "total": 4500
+    },
+    {
+      "id": "5",
+      "patient": "Ali Hassan",
+      "services": [
+        {
+          "name": "General Checkup",
+          "price": 500,
+          "quantity": 1
+        }
+      ],
+      "total": 500
+    },
+    {
+      "id": "7",
+      "patient": "Bobby",
+      "services": [],
+      "total": 0
+    },
+    {
+      "id": "2998",
+      "patient": "JB",
+      "services": [
+        {
+          "name": "General Checkup",
+          "price": 500,
+          "quantity": 1
+        }
+      ],
+      "total": 500
+    },
+    {
+      "id": "5688",
+      "patient": "Rana",
+      "services": [
+        {
+          "name": "X-Ray",
+          "price": 800,
+          "quantity": 1
+        }
+      ],
+      "total": 800
+    }
+  ]
+}
