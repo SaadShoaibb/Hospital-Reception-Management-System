@@ -3,10 +3,10 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-d
 import styled from 'styled-components';
 import LoginForm from '../src/Components/LoginForm/LoginForm';
 import Sidebar from "../src/SideMenu/SideBar";
-import  AboutUs from "../src/Components/About/AboutUs";
+import AboutUs from "../src/Components/About/AboutUs";
 import Appointments from "../src/Components/AddAppointments/Appointments";
 import ShowServices from "../src/Components/Services/ShowServices";
-import  Dashboard  from "../src/Components/Dashboard/MainDashboard";
+import Dashboard from "../src/Components/Dashboard/MainDashboard";
 import ShowInvoices from "../src/Components/Invoices/ShowInvoices";
 import AddAppointments from '../src/Components/AddAppointments/AddAppointments';
 import ShowDoctors from "../src/Components/Doctor/ShowDoctors";
@@ -33,6 +33,8 @@ function App() {
   ]);
 
   const handleLogin = () => setIsLoggedIn(true);
+  const handleLogout = () => setIsLoggedIn(false);
+
   const toggleSidebar = () => setIsSidebarOpen(!isSidebarOpen);
 
   const handleAddAppointment = (newAppointment) => {
@@ -48,7 +50,7 @@ function App() {
         <Route path="/" element={<LoginForm onLogin={handleLogin} />} />
         <Route path="/Sidebar/*" element={isLoggedIn ? (
           <AppContainer>
-            <Sidebar isOpen={isSidebarOpen} toggleSidebar={toggleSidebar} />
+            <Sidebar isOpen={isSidebarOpen} toggleSidebar={toggleSidebar} handleLogout={handleLogout} />
             <MainContent sidebarOpen={isSidebarOpen}>
               <Routes>
                 <Route path="/Dashboard" element={<Dashboard />} />
