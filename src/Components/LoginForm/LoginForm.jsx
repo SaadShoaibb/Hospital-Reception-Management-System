@@ -41,7 +41,7 @@ const LoginForm = ({ onLogin }) => {
     }
 
     // Validation (replace with your actual authentication logic)
-    if (username === '1' && password === '1' || username === 'rana' && password === 'rana123' || username === 'rayyan' && password === 'rayyan123' || username === 'jahanzaib' && password === 'jahanzaib123'|| username === 'saad123' && password === 'saad') { // Simple check (not secure)
+    if (username === '1' && password === '1' || username === 'rana' && password === 'rana123' || username === 'rayyan' && password === 'rayyan123' || username === 'jahanzaib' && password === 'jahanzaib123'|| username === 'saad' && password === 'saad123') { // Simple check (not secure)
       setUsername('');
       setPassword('');
       onLogin(); // Call the passed-in login function

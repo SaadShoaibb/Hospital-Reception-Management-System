@@ -562,18 +562,6 @@
       "Description": "Regular blood pressure checkup"
     },
     {
-      "id": "49",
-      "ID": "",
-      "Patient": "Maham Khan",
-      "PhoneNo": "0356789014",
-      "Email": "maham.khan@example.com",
-      "PurposeOfVisit": "Asthma Checkup",
-      "Doctor": "Dr. Amjad",
-      "Date": "2024-06-07",
-      "AppointmentTime": "15:00",
-      "Description": "Regular asthma checkup"
-    },
-    {
       "id": "50",
       "ID": "",
       "Patient": "Zara Farooq",
@@ -586,42 +574,7 @@
       "Description": "Regular dental checkup"
     },
     {
-      "id": "51",
-      "ID": "",
-      "Patient": "Hassan Iqbal",
-      "PhoneNo": "0378901236",
-      "Email": "hassan.iqbal@example.com",
-      "PurposeOfVisit": "Vaccination",
-      "Doctor": "Dr. Khan",
-      "Date": "2024-06-09",
-      "AppointmentTime": "13:00",
-      "Description": "Flu vaccination"
-    },
-    {
       "id": "52",
-      "ID": "",
-      "Patient": "Aisha Raza",
-      "PhoneNo": "0389012347",
-      "Email": "aisha.raza@example.com",
-      "PurposeOfVisit": "Allergy",
-      "Doctor": "Dr. Saeed",
-      "Date": "2024-06-10",
-      "AppointmentTime": "17:00",
-      "Description": "Skin allergy"
-    },
-    {
-      "id": "",
-      "Patient": "JB",
-      "PhoneNo": "03151103929",
-      "Email": "asd@gmail.com",
-      "PurposeOfVisit": "Physiotherapy",
-      "Doctor": "Dr.Farhan",
-      "Date": "2024-05-31",
-      "AppointmentTime": "14:45",
-      "Description": "ACL"
-    },
-    {
-      "id": "",
       "Patient": "Rana",
       "PhoneNo": "03151103929",
       "Email": "iconicowns@gmail.com",
@@ -630,6 +583,39 @@
       "Date": "2024-05-30",
       "AppointmentTime": "14:01",
       "Description": "Own Goal"
+    },
+    {
+      "id": "54",
+      "Patient": "Manal Shoaib",
+      "PhoneNo": "03492601361",
+      "Email": "manalshoaib14@gmail.com",
+      "PurposeOfVisit": "CT Scan",
+      "Doctor": "Dr.Adeel",
+      "Date": "2024-08-01",
+      "AppointmentTime": "13:18",
+      "Description": "ad"
+    },
+    {
+      "id": "",
+      "Patient": "Zain Qureshi",
+      "PhoneNo": "03009876543",
+      "Email": "zain.qureshi@example.com",
+      "PurposeOfVisit": "Blood Test",
+      "Doctor": "Dr.Adeel",
+      "Date": "2024-07-10",
+      "AppointmentTime": "13:32",
+      "Description": "aa"
+    },
+    {
+      "id": "",
+      "Patient": "Saad Shoaib",
+      "PhoneNo": "03235534542",
+      "Email": "asd@gmail.com",
+      "PurposeOfVisit": "Root Canal",
+      "Doctor": "Dr.Adeel",
+      "Date": "2024-07-26",
+      "AppointmentTime": "13:39",
+      "Description": "teeth "
     }
   ],
   "Patients": [
@@ -688,6 +674,27 @@
       "PhoneNo": "03151103929",
       "Email": "iconicowns@gmail.com",
       "Date": "2024-05-30"
+    },
+    {
+      "id": "3937",
+      "Patient": "Manal Shoaib",
+      "PhoneNo": "03492601361",
+      "Email": "manalshoaib14@gmail.com",
+      "Date": "2024-06-01"
+    },
+    {
+      "id": "5948",
+      "Patient": "Nabeel",
+      "PhoneNo": "03152201928",
+      "Email": "iconicowns@gmail.com",
+      "Date": "2024-06-21"
+    },
+    {
+      "id": "6815",
+      "Patient": "Saad Shoaib",
+      "PhoneNo": "03235534542",
+      "Email": "asd@gmail.com",
+      "Date": "2024-07-26"
     }
   ],
   "invoices": [
@@ -1105,6 +1112,67 @@
         }
       ],
       "total": 800
+    },
+    {
+      "id": "3937",
+      "patient": "Manal Shoaib",
+      "services": [
+        {
+          "name": "Root Canal",
+          "price": 1200,
+          "quantity": 1
+        }
+      ],
+      "total": 1200
+    },
+    {
+      "id": "5948",
+      "patient": "Nabeel",
+      "services": [
+        {
+          "name": "Vaccination",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "name": "X-Ray",
+          "price": 800,
+          "quantity": 1
+        }
+      ],
+      "total": 1500
+    },
+    {
+      "id": "6",
+      "patient": "Saad",
+      "services": [
+        {
+          "name": "Root Canal",
+          "price": 1200,
+          "quantity": 1
+        },
+        {
+          "name": "Vaccination",
+          "price": 700,
+          "quantity": 2
+        },
+        {
+          "name": "X-Ray",
+          "price": 800,
+          "quantity": 1
+        },
+        {
+          "name": "Root Canal",
+          "price": 1200,
+          "quantity": 1
+        },
+        {
+          "name": "X-Ray",
+          "price": 800,
+          "quantity": 2
+        }
+      ],
+      "total": 6200
     }
   ]
 }
